@@ -1,7 +1,7 @@
 <a href="https://github.com/arkanttus/DoacoesUfac" style="margin-bottom: 10px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arkanttus&repo=DoacoesUfac&theme=radical" />
 </a>
-<br/>
+
 <a href="https://github.com/arkanttus/EmotiTEA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arkanttus&repo=EmotiTEA&theme=radical" />
 </a>
