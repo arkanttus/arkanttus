@@ -13,8 +13,8 @@ I'm passionate by technologies, games, movies and artificial intelligence. I'm W
 - [X] JavaScript | ReactJs
 - [X] PhP | Lumen
 - [X] API Rest
-- [X] Convolutional Neural Networks
-- [ ] Learning Elixir
-- [ ] Learning Design Patterns
+- [X] Convolutional Neural Networks | Tensorflow
+- [ ] Elixir...
+- [ ] Design Patterns...
 
 <img src="https://i0.wp.com/somentecoisaslegais.com.br/wp-content/uploads/2012/09/Gandalf-Sax-guy-10-Hours.gif" width="400" height="auto"/>
