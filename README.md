@@ -5,7 +5,7 @@ I'm passionate by technologies, games, movies and artificial intelligence. I'm W
 ## My main repositories:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arkanttus&repo=EmotiTEA&theme=radical)](https://github.com/arkanttus/EmotiTEA)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arkanttus&repo=Convid-Acre&theme=radical)](https://github.com/arkanttus/Covid-Acre)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arkanttus&repo=Covid-Acre&theme=radical)](https://github.com/arkanttus/Covid-Acre)
 
 # Someone Skills:
 
