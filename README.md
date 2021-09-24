@@ -1,6 +1,6 @@
 # Hi, i'm Italo Oliveira...
 
-I'm passionate by technologies, games, movies and artificial intelligence. I'm Web Developer from Brazil, have experience in freelancer, and currently working at Stone as Backend Developer.
+I'm passionate by technologies, games, movies and artificial intelligence. I'm Web Developer from Brazil, have experience in freelancer, and currently working at <a href="https://www.stone.com.br/">Stone</a> as Backend Developer.
 
 ## My main repositories:
 
