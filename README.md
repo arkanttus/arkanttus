@@ -23,24 +23,16 @@ I'm passionate by technologies, games, movies and artificial intelligence. I'm W
 ![PhP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
 ![CNN](https://img.shields.io/badge/Convolutional%20Neural%20Networks-FF6F33?style=flat&logo=tensorflow&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![Clean Architecture](https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white)&nbsp;
 ![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white)&nbsp;
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=fff)&nbsp;
-![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=flat&logo=grafana&logoColor=orange&labelColor=F2F4F9)&nbsp;
+
 
 <hr/>
 
