@@ -1,6 +1,6 @@
 ## Hi, i'm Italo Oliveira... <img src="https://media.giphy.com/media/vrUqksyo8PBdoDQTCM/giphy.gif" width="50"></h2>
 
-I'm passionate by technologies, games, movies and artificial intelligence. I'm Web Developer from Brazil, have experience in back-end, REST APIs, MVC projects and currently working at <a href="https://www.stone.com.br/">Stone</a> as Elixir Back-end Developer.
+I'm passionate by technologies, games, movies and artificial intelligence. I'm B.S in Information Systems by Universidade Federal do Acre with experience in web developer, back-end, REST APIs, MVC projects and currently working at <a href="https://www.stone.com.br/">Stone</a> as Elixir Back-end Developer.
 
 
 ## My main repositories:
