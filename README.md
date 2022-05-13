@@ -1,6 +1,6 @@
 ## Hi, i'm Italo Oliveira... <img src="https://media.giphy.com/media/vrUqksyo8PBdoDQTCM/giphy.gif" width="50"></h2>
 
-I'm passionate by technologies, games, movies and artificial intelligence. I'm Web Developer from Brazil, have experience in freelancer, and currently working at <a href="https://www.stone.com.br/">Stone</a> as Backend Developer.
+I'm passionate by technologies, games, movies and artificial intelligence. I'm Web Developer from Brazil, have experience in back-end, REST APIs, MVC projects and currently working at <a href="https://www.stone.com.br/">Stone</a> as Elixir Back-end Developer.
 
 
 ## My main repositories:
@@ -40,6 +40,7 @@ I'm passionate by technologies, games, movies and artificial intelligence. I'm W
 - [X] Design Patterns ...
 - [X] Docker | Kubernetes ...
 - [X] CI | CD ...
+- [X] Microservices ...
 
 <hr/>
 
